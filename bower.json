@@ -1,0 +1,25 @@
+{
+  "name": "projeto",
+  "authors": [
+    "Daniel Andrade <daniel.andrade@proprodutores.com.br>"
+  ],
+  "description": "Projeto exemplo",
+  "main": "index.html",
+  "keywords": [
+    "projeto",
+    "exemplo",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/dangregory",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-indexedDB": "angularjs-indexedDB#*"
+  }
+}
